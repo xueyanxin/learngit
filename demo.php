@@ -13,3 +13,4 @@ $a ='my name is xueyanxin';
 $aa = 'ff';
 $dd = 'fdf';
 $ff = 'fdfdgfd';
+$gg="dsfsdf";
