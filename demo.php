@@ -11,3 +11,4 @@
 echo "Hello world";
 $a ='my name is xueyanxin';
 $aa = 'ff';
+$dd = 'fdf';
